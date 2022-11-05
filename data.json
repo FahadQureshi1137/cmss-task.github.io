@@ -1,0 +1,82 @@
+[
+    {
+        "img": "https://contradagroup.com/wp-content/uploads/2013/11/dummy-person.jpg",
+        "name": "Mike Tyson",
+        "dept": "IT",
+        "emailId": "mike@tyson.com",
+        "designation": "Admin",
+        "phone": "1234567890"
+    },
+    {
+        "img": "https://contradagroup.com/wp-content/uploads/2013/11/dummy-person.jpg",
+        "name": "Peter Parker",
+        "dept": "IT",
+        "emailId": "peter@parker.com",
+        "designation": "Admin",
+        "phone": "1234567890"
+    },
+    {
+        "img": "https://contradagroup.com/wp-content/uploads/2013/11/dummy-person.jpg",
+        "name": "John Doe",
+        "dept": "IT",
+        "emailId": "mike@tyson.com",
+        "designation": "Admin",
+        "phone": "1234567890"
+    },
+    {
+        "img": "https://contradagroup.com/wp-content/uploads/2013/11/dummy-person.jpg",
+        "name": "Bruce wayne",
+        "dept": "IT",
+        "emailId": "mike@tyson.com",
+        "designation": "Admin",
+        "phone": "1234567890"
+    },
+    {
+        "img": "https://contradagroup.com/wp-content/uploads/2013/11/dummy-person.jpg",
+        "name": "Michael Jordan",
+        "dept": "IT",
+        "emailId": "mike@tyson.com",
+        "designation": "Admin",
+        "phone": "1234567890"
+    },
+    {
+        "img": "https://contradagroup.com/wp-content/uploads/2013/11/dummy-person.jpg",
+        "name": "John Cena",
+        "dept": "IT",
+        "emailId": "mike@tyson.com",
+        "designation": "Admin",
+        "phone": "1234567890"
+    },
+    {
+        "img": "https://contradagroup.com/wp-content/uploads/2013/11/dummy-person.jpg",
+        "name": "Kyrie Irving",
+        "dept": "IT",
+        "emailId": "mike@tyson.com",
+        "designation": "Admin",
+        "phone": "1234567890"
+    },
+    {
+        "img": "https://contradagroup.com/wp-content/uploads/2013/11/dummy-person.jpg",
+        "name": "Andrew Tate",
+        "dept": "IT",
+        "emailId": "mike@tyson.com",
+        "designation": "Admin",
+        "phone": "1234567890"
+    },
+    {
+        "img": "https://contradagroup.com/wp-content/uploads/2013/11/dummy-person.jpg",
+        "name": "Shane Warne",
+        "dept": "IT",
+        "emailId": "mike@tyson.com",
+        "designation": "Admin",
+        "phone": "1234567890"
+    },
+    {
+        "img": "https://contradagroup.com/wp-content/uploads/2013/11/dummy-person.jpg",
+        "name": "Sanga Kara",
+        "dept": "IT",
+        "emailId": "mike@tyson.com",
+        "designation": "Admin",
+        "phone": "1234567890"
+    }
+]
