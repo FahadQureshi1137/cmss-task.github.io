@@ -23,6 +23,32 @@ $(document).ready(function () {
     });
 });
 
+
+
+$(document).ready(function () {
+    var oTable = $('#tableID').DataTable({});
+    $('#tableID_filter1').keyup(function () {
+        oTable.search($(this).val()).draw();
+    })
+
+
+    $('#tableID_filter2').keyup(function () {
+        oTable.search($(this).val()).draw();
+    })
+
+    $('#tableID_filter3').keyup(function () {
+        oTable.search($(this).val()).draw();
+    })
+
+    $('#tableID_filter4').keyup(function () {
+        oTable.search($(this).val()).draw();
+    })
+});
+
+
+
+
+
 // DATA TABLE
 function readTextFile(file, callback) {
     var rawFile = new XMLHttpRequest();

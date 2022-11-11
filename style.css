@@ -94,3 +94,7 @@ body{
     border: none;
     border-radius: 50px;
 }
+
+#tableID_filter{
+    visibility: hidden;
+}

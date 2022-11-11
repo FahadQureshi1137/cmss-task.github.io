@@ -2,81 +2,162 @@
     {
         "img": "https://contradagroup.com/wp-content/uploads/2013/11/dummy-person.jpg",
         "name": "Mike Tyson",
-        "dept": "IT",
+        "dept": "Boxing",
         "emailId": "mike@tyson.com",
-        "designation": "Admin",
+        "designation": "boxer",
         "phone": "1234567890"
     },
     {
         "img": "https://contradagroup.com/wp-content/uploads/2013/11/dummy-person.jpg",
         "name": "Peter Parker",
-        "dept": "IT",
+        "dept": "Actor",
         "emailId": "peter@parker.com",
-        "designation": "Admin",
+        "designation": "Spiderman",
         "phone": "1234567890"
     },
     {
         "img": "https://contradagroup.com/wp-content/uploads/2013/11/dummy-person.jpg",
         "name": "John Doe",
-        "dept": "IT",
-        "emailId": "mike@tyson.com",
-        "designation": "Admin",
+        "dept": "Unknown",
+        "emailId": "john@doe.com",
+        "designation": "Person",
         "phone": "1234567890"
     },
     {
         "img": "https://contradagroup.com/wp-content/uploads/2013/11/dummy-person.jpg",
         "name": "Bruce wayne",
-        "dept": "IT",
-        "emailId": "mike@tyson.com",
-        "designation": "Admin",
+        "dept": "Actor",
+        "emailId": "bruce@wayne.com",
+        "designation": "Batman",
         "phone": "1234567890"
     },
     {
         "img": "https://contradagroup.com/wp-content/uploads/2013/11/dummy-person.jpg",
         "name": "Michael Jordan",
-        "dept": "IT",
-        "emailId": "mike@tyson.com",
-        "designation": "Admin",
+        "dept": "Athlete",
+        "emailId": "michael@jordan.com",
+        "designation": "Basketball",
         "phone": "1234567890"
     },
     {
         "img": "https://contradagroup.com/wp-content/uploads/2013/11/dummy-person.jpg",
         "name": "John Cena",
-        "dept": "IT",
-        "emailId": "mike@tyson.com",
-        "designation": "Admin",
+        "dept": "Wrestling",
+        "emailId": "john@cena.com",
+        "designation": "Wrestler",
         "phone": "1234567890"
     },
     {
         "img": "https://contradagroup.com/wp-content/uploads/2013/11/dummy-person.jpg",
         "name": "Kyrie Irving",
-        "dept": "IT",
-        "emailId": "mike@tyson.com",
-        "designation": "Admin",
+        "dept": "Athlete",
+        "emailId": "kyrie@irving.com",
+        "designation": "Basketball",
+        "phone": "1234567890"
+    },
+    {
+        "img": "https://contradagroup.com/wp-content/uploads/2013/11/dummy-person.jpg",
+        "name": "Cristiano Ronaldo",
+        "dept": "Football",
+        "emailId": "cristiano@ronaldo.com",
+        "designation": "Footballer",
         "phone": "1234567890"
     },
     {
         "img": "https://contradagroup.com/wp-content/uploads/2013/11/dummy-person.jpg",
         "name": "Andrew Tate",
-        "dept": "IT",
-        "emailId": "mike@tyson.com",
-        "designation": "Admin",
+        "dept": "Self-Made",
+        "emailId": "andrew@tate.com",
+        "designation": "Entreprenuer",
         "phone": "1234567890"
     },
     {
         "img": "https://contradagroup.com/wp-content/uploads/2013/11/dummy-person.jpg",
         "name": "Shane Warne",
-        "dept": "IT",
-        "emailId": "mike@tyson.com",
-        "designation": "Admin",
+        "dept": "Cricket",
+        "emailId": "shane@warne.com",
+        "designation": "Cricketer",
         "phone": "1234567890"
     },
     {
         "img": "https://contradagroup.com/wp-content/uploads/2013/11/dummy-person.jpg",
-        "name": "Sanga Kara",
-        "dept": "IT",
-        "emailId": "mike@tyson.com",
-        "designation": "Admin",
+        "name": "Dummy",
+        "dept": "Unknown",
+        "emailId": "un@known.com",
+        "designation": "God Knows",
+        "phone": "1234567890"
+    },
+    {
+        "img": "https://contradagroup.com/wp-content/uploads/2013/11/dummy-person.jpg",
+        "name": "Dummy",
+        "dept": "Unknown",
+        "emailId": "un@known.com",
+        "designation": "God Knows",
+        "phone": "1234567890"
+    },
+    {
+        "img": "https://contradagroup.com/wp-content/uploads/2013/11/dummy-person.jpg",
+        "name": "Dummy",
+        "dept": "Unknown",
+        "emailId": "un@known.com",
+        "designation": "God Knows",
+        "phone": "1234567890"
+    },
+    {
+        "img": "https://contradagroup.com/wp-content/uploads/2013/11/dummy-person.jpg",
+        "name": "Dummy",
+        "dept": "Unknown",
+        "emailId": "un@known.com",
+        "designation": "God Knows",
+        "phone": "1234567890"
+    },
+    {
+        "img": "https://contradagroup.com/wp-content/uploads/2013/11/dummy-person.jpg",
+        "name": "Dummy",
+        "dept": "Unknown",
+        "emailId": "un@known.com",
+        "designation": "God Knows",
+        "phone": "1234567890"
+    },
+    {
+        "img": "https://contradagroup.com/wp-content/uploads/2013/11/dummy-person.jpg",
+        "name": "Dummy",
+        "dept": "Unknown",
+        "emailId": "un@known.com",
+        "designation": "God Knows",
+        "phone": "1234567890"
+    },
+    {
+        "img": "https://contradagroup.com/wp-content/uploads/2013/11/dummy-person.jpg",
+        "name": "Dummy",
+        "dept": "Unknown",
+        "emailId": "un@known.com",
+        "designation": "God Knows",
+        "phone": "1234567890"
+    },
+    {
+        "img": "https://contradagroup.com/wp-content/uploads/2013/11/dummy-person.jpg",
+        "name": "Dummy",
+        "dept": "Unknown",
+        "emailId": "un@known.com",
+        "designation": "God Knows",
+        "phone": "1234567890"
+    },
+    {
+        "img": "https://contradagroup.com/wp-content/uploads/2013/11/dummy-person.jpg",
+        "name": "Dummy",
+        "dept": "Unknown",
+        "emailId": "un@known.com",
+        "designation": "God Knows",
+        "phone": "1234567890"
+    },
+    {
+        "img": "https://contradagroup.com/wp-content/uploads/2013/11/dummy-person.jpg",
+        "name": "Dummy",
+        "dept": "Unknown",
+        "emailId": "un@known.com",
+        "designation": "God Knows",
         "phone": "1234567890"
     }
+    
 ]
